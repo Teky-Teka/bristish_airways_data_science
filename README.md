@@ -5,7 +5,7 @@ British Airways Data Science job simulation
 https://www.airlinequality.com/
 
 ### -1.a- Data scrapping
-![<SkyTrax BA reviews scrapping](BADS SkyTrax review scrapping CE 2024-01-03 à 17.02.04.png)
+![SkyTrax BA reviews scrapping](BADS SkyTrax review scrapping CE 2024-01-03 à 17.02.04.png)
 ### -1.b- Data analysis
 ### -1.c- Data insights
 
