@@ -5,6 +5,7 @@ British Airways Data Science job simulation
 https://www.airlinequality.com/
 
 ### -1.a- Data scrapping
+![<SkyTrax review scrapping](https://github.com/Teky-Teka/bristish_airways_data_science/blob/master/BADS%20SkyTrax%20review%20scrapping%20CE%202024-01-03%20%C3%A0%2015.45.49.png?raw=true)
 ### -1.b- Data analysis
 ### -1.c- Data insights
 
