@@ -3,8 +3,10 @@ British Airways Data Science job simulation
 
 ## -1- Task One: review data insights
 Website: https://www.airlinequality.com/
-Notebook: bads_t1_data_anlysis.ipynb
-Data: csv_data/BADS_reviews.csv
+
+Notebook: `bads_t1_data_anlysis.ipynb`
+
+Data: `csv_data/BADS_reviews.csv`
 
 ### -1.a- Data scrapping & Cleaning
 Collect reviews data using website scrapping.
