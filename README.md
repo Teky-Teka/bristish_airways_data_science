@@ -13,7 +13,8 @@ Collect reviews data using website scrapping.
 
 ### -1.b- Data analysis
 Prepare data for analysis cleaning unecessary text and storing result into CSV dataset.
-Explore and analysis the reviews dataset.
+Explore and analysis the reviews dataset using Natural Language Processing (NLP) with sentiment analysing.
+Realize a word embedding with `word2vec` library  and the `Embedding` layer in `Keras` library to feed a Recurrent Neural Network with vectorized text.
 
 ### -1.c- Data insights
 Implement a PPT deck with reviews data insights.
