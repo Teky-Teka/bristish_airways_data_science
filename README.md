@@ -1,10 +1,10 @@
-# bristish_airways_data_science
+# Bristish Airways Data Science (BADS)
 British Airways Data Science job simulation
 
 ## -1- Task One: review data insights
 Website: https://www.airlinequality.com/
 
-Notebook: `bads_t1_data_anlysis.ipynb`
+Notebook: `bads_t1_review_data_insights.ipynb`
 
 Data: `csv_data/BADS_reviews.csv`
 
